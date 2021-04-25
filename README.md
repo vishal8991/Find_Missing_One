@@ -1,5 +1,5 @@
-$ How to run the application
-Download or clone the project
+$ How to run the application,
+Download or clone the project.
 Go to Folder as
 		~\bin\Debug\netcoreapp3.1
 		& run Blanknetapp.exe
