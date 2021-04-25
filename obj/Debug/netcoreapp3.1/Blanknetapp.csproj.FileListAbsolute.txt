@@ -1,0 +1,13 @@
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.exe
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.deps.json
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.runtimeconfig.json
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.runtimeconfig.dev.json
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.dll
+D:\workspace\Dotnet\Blanknetapp\bin\Debug\netcoreapp3.1\Blanknetapp.pdb
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.csprojAssemblyReference.cache
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.AssemblyInfoInputs.cache
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.AssemblyInfo.cs
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.csproj.CoreCompileInputs.cache
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.dll
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.pdb
+D:\workspace\Dotnet\Blanknetapp\obj\Debug\netcoreapp3.1\Blanknetapp.genruntimeconfig.cache
